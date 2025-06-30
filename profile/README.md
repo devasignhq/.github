@@ -1,10 +1,6 @@
 ![DevAsign Banner](./thumbnail.png)
 
-# We’re building the operating system for open-source collaboration.
-
----
-
-## 🚀 Our Solution
+## 🚀 Enabling OSS teams move faster with: 
 
 - **🧠 Automated PR Merges**  
   AI-powered validation and merging of GitHub pull requests—no manual gatekeeping.
