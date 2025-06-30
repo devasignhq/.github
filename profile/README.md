@@ -1,8 +1,6 @@
 ![DevAsign Banner](./thumbnail.png)
 
-# AI workflows and automated bounty payouts for OSS teams
-
-We’re building the operating system for open-source collaboration.
+# We’re building the operating system for open-source collaboration.
 
 ---
 
