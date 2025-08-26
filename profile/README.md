@@ -9,7 +9,7 @@
   Every issue, comment, and update is tied to its task context—no more hopping between tools.
 
 - **💰 Smart Contract Payments**  
-  Instant, on-chain payments in stablecoins upon merge via Soroban smart contracts.
+  Instant, on-chain bounty payments in stablecoins upon PR merge via Soroban smart contracts.
 
 - **🔐 Secure Onboarding**  
   Wallet creation, KYC, and payout flow handled upfront for trust and compliance.
@@ -35,4 +35,4 @@
 
 ---
 
-Powered by Stellar • Backed by Stellar Development Community
+Powered by Stellar
