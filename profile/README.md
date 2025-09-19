@@ -20,7 +20,7 @@
 
 - 🔗 Website: [www.devasign.com](https://www.devasign.com)  
 - 📖 Docs: _Coming Soon_  
-- 💬 Email: [bethel@devasign.com](mailto:bethel@devasign.com)  
+- 💬 Email: [oss@devasign.com](mailto:oss@devasign.com)  
 - 💻 GitHub Org: [github.com/devasignhq](https://github.com/devasignhq)
 
 ---
