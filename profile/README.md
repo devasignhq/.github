@@ -2,7 +2,7 @@
 
 ## Enabling OSS teams move faster with: 
 
-- **Code Review:** AI-powered validation and merging of GitHub pull requests—no manual gatekeeping.
+- **Code Review:** Run test, replicate bugs, check if code is out of issue scope, etc.
 
 - **Intelligent Feedback:** Analyse PR and send actionable feedback to contributors via DM when PRs can't be merged.
 
