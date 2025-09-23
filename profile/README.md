@@ -1,31 +1,26 @@
 ![DevAsign Banner](./thumbnail.png)
 
-## 🚀 Enabling OSS teams move faster with: 
+## Enabling OSS teams move faster with: 
 
-- **🧠 Automated PR Merges**  
-  AI-powered validation and merging of GitHub pull requests—no manual gatekeeping.
+- **Code Review:** AI-powered validation and merging of GitHub pull requests—no manual gatekeeping.
 
-- **💬 Context-Aware Threads**  
-  Every issue, comment, and update is tied to its task context—no more hopping between tools.
+- **Intelligent Feedback:** Analyse PR and send actionable feedback to contributors via DM when PRs can't be merged.
 
-- **💰 Smart Contract Payments**  
-  Instant, on-chain bounty payments in stablecoins upon PR merge via Soroban smart contracts.
+- **Automatic Bounty Payments:** Instant, on-chain bounty payments in stablecoins upon PR merge via Soroban smart contracts.
 
-- **🔐 Secure Onboarding**  
-  Wallet creation, KYC, and payout flow handled upfront for trust and compliance.
+- **Secure Onboarding:** Wallet creation, KYC, and payout flow handled upfront for trust and compliance.
 
 ---
 
-## 🌐 Quick Links
+## Quick Links
 
 - 🔗 Website: [www.devasign.com](https://www.devasign.com)  
-- 📖 Docs: _Coming Soon_  
 - 💬 Email: [oss@devasign.com](mailto:oss@devasign.com)  
 - 💻 GitHub Org: [github.com/devasignhq](https://github.com/devasignhq)
 
 ---
 
-## 📈 Roadmap
+## Roadmap
 
 | Quarter     | Milestone                                  |
 |-------------|---------------------------------------------|
