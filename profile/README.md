@@ -10,7 +10,6 @@
 
 - **Secure Onboarding:** Wallet creation, KYC, and payout flow handled upfront for trust and compliance.
 
----
 
 ## Quick Links
 
@@ -18,7 +17,6 @@
 - 💬 Email: [oss@devasign.com](mailto:oss@devasign.com)  
 - 💻 GitHub Org: [github.com/devasignhq](https://github.com/devasignhq)
 
----
 
 ## Roadmap
 
@@ -28,6 +26,5 @@
 | **Q4 2025** | MVP rollout with GitHub + payment modules   |
 | **2026**    | Community expansion & governance features   |
 
----
 
 Powered by Stellar
