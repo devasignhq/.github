@@ -23,7 +23,7 @@
 | Quarter     | Milestone                                  |
 |-------------|---------------------------------------------|
 | **Q3 2025** | Proof-of-Concept launch                     |
-| **Q4 2025** | MVP rollout with GitHub + payment modules   |
+| **Q4 2025** | MVP rollout with GitHub + bounty payment modules   |
 | **2026**    | Community expansion & governance features   |
 
 
