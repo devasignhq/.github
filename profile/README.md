@@ -14,7 +14,7 @@
 ## Quick Links
 
 - 🔗 Website: [www.devasign.com](https://www.devasign.com)  
-- 💬 Email: [odeveloper@devasign.com](mailto:developer@devasign.com)  
+- 💬 Email: [developer@devasign.com](mailto:developer@devasign.com)  
 - 💻 GitHub Org: [github.com/devasignhq](https://github.com/devasignhq)
 
 
