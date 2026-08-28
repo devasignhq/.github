@@ -22,4 +22,3 @@
 | **Q1 2026** | Launch multimodal agent for code review   |
 | **Q2 2026** | IDE extension for local review upon commit  |                    |
 | **Q3 2026** | Security audit + custom review workflow per repo |
-| **Q4 2026** | Launch code review agent (GitHub app & IDE extension)   |
