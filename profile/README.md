@@ -10,7 +10,7 @@
 ## Quick links
 
 - Website: [www.devasign.com](https://www.devasign.com)  
-- Docs: [wwww.devasign.com/docs](https://devasign.com/docs)
+- Docs: [www.devasign.com/docs](https://devasign.com/docs)
 - Email: [developer@devasign.com](mailto:developer@devasign.com)  
 
 ## Roadmap
