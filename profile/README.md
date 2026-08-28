@@ -1,27 +1,25 @@
-![DevAsign Banner](./thumbnail.png)
+![DevAsign Banner](./githubcover.png)
 
-## Enabling OSS teams move faster with: 
+## We help engineering teams:
 
-- **Code Review:** Run test, replicate bugs, check if code is out of issue scope, etc.
-
-- **Intelligent Feedback:** Analyse PR and send actionable feedback to contributors via DM when PRs can't be merged.
-
-- **Automatic Bounty Payments:** Instant, on-chain bounty payments in stablecoins upon PR merge via Soroban smart contracts.
-
-- **Secure Onboarding:** Wallet creation, KYC, and payout flow handled upfront for trust and compliance.
+- review PR against the actual goal, not just the diff (IDE extension + GitHub App)
+- create bounty, USDC sits in a soroban escrow
+- pay contributor the moment their PR merges
 
 
-## Quick Links
+## Quick links
 
-- 🔗 Website: [www.devasign.com](https://www.devasign.com)  
-- 💬 Email: [developer@devasign.com](mailto:developer@devasign.com)  
-- 💻 GitHub Org: [github.com/devasignhq](https://github.com/devasignhq)
-
+- Website: [www.devasign.com](https://www.devasign.com)  
+- Docs: [wwww.devasign.com/docs](https://devasign.com/docs)
+- Email: [developer@devasign.com](mailto:developer@devasign.com)  
 
 ## Roadmap
 
 | Quarter     | Milestone                                  |
 |-------------|---------------------------------------------|
 | **Q3 2025** | Proof-of-Concept launch                     |
-| **Q4 2025** | MVP rollout with GitHub + bounty payment modules   |
-| **2026**    | Community expansion & governance features   |
+| **Q4 2025** | MVP: code review beta + soroban escrow contract for bounty payment  |
+| **Q1 2026** | Launch multimodal agent for code review   |
+| **Q2 2026** | IDE extension for local review upon commit  |                    |
+| **Q3 2026** | Security audit + custom review workflow per repo |
+| **Q4 2026** | Launch code review agent (GitHub app & IDE extension)   |
